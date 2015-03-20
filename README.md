@@ -1,6 +1,6 @@
 # Intervals
 
-Intervals is a tiny program that measures the average duration of a specific task in a file. The file should be a log file that has a time stamp on each line been logged.
+Intervals is a tiny program that measures the average duration of a repetitive task from the times present in a log file. The file should be a log file that has a time stamp on each line been logged.
 
 # Installation:
 
